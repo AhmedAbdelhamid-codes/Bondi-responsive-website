@@ -34,7 +34,7 @@ The website is fully responsive and works smoothly on:
 
 ## 🔗 Links
 - GitHub: [Ahmed Abdelhamid](https://github.com/AhmedAbdelhamid-codes)
-- LinkedIn: [Ahmed Abdelhamid](https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b4905837b7b7)
+- LinkedIn: [Ahmed Abdelhamid]([https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b4905837b7b7](https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b/))
 
 ## 📌 Notes
 This project was built for learning and practice purposes to improve frontend skills, especially responsive design and layout structuring.
