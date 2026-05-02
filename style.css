@@ -62,42 +62,10 @@ html{
 
 .container{
   margin: auto;
+  width: 90%;
+  max-width: 1350px;
 }
 
-/* موبايل كبير */
-@media (min-width: 575px) { 
-    .container{
-      width: 500px;
-    }
-}
-
-/* tablet */
-@media (min-width: 768px) { 
-    .container{
-      width: 700px ;
-    }
-}
-
-/* laptop S */
-@media (min-width: 992px) { 
-    .container{
-      width: 950px;
-    }
-}
-
-/*  laptop M */
-@media (min-width: 1200px) { 
-    .container{
-      width: 1100px;
-    }
-}
-
-/*  laptop L */
-@media (min-width: 1398px) { 
-    .container{
-      width: 1350px;
-    }
-}
 /* end normalize */
 
 /* ===========start header========== */
@@ -453,27 +421,10 @@ header{
 
 .container_Portfolio .card{
   padding: 10px 15px;
+  flex: 1 1 300px;
 }
 
-/* ==== start responsef cards==== */
-@media (min-width: 575px) { 
-  .container_Portfolio .card{
-   width: 50%;
-  }
-}
-
-@media (min-width: 768px) { 
-  .container_Portfolio .card{
-   width: 33.33%;
-  } 
-}
-
-@media (min-width: 992px) { 
-  .container_Portfolio .card{
-   width: 25%;
-  }
-}
-/* ==== end responsef cards==== */
+/* === end responsef cards==== */
 
 .container_Portfolio .card .imge{
   max-width: 100%;
@@ -699,10 +650,11 @@ header{
 
 .container_team .cards .card{
   padding: 10px 15px;
+  flex: 1 1 300px;
 }
 
 /* ====start responive for phones & tablets===== */
-@media (min-width: 575px) { 
+/* @media (min-width: 575px) { 
   .container_team .cards .card{
    width: 50%;
   }
@@ -718,7 +670,7 @@ header{
   .container_team .cards .card{
    width: 25%;
   }
-}
+} */
 /* ====end responive for phones & tablets===== */
 
 .container_team .cards .imge{
