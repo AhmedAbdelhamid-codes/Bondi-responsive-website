@@ -30,7 +30,7 @@ The website is fully responsive and works smoothly on:
 - Large screens
 
 ## 🌐 Live Demo
-👉 [View Website](https://github.com/AhmedAbdelhamid-codes/Bondi-responsive-website.git)
+👉 [View Website](https://ahmedabdelhamid-codes.github.io/Bondi-responsive-website/)
 
 ## 🔗 Links
 - GitHub: [Ahmed Abdelhamid](https://github.com/AhmedAbdelhamid-codes)
