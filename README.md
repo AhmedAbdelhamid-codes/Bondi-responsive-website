@@ -30,7 +30,7 @@ The website is fully responsive and works smoothly on:
 - Large screens
 
 ## 🌐 Live Demo
-👉 [View Website](https://statuesque-crumble-a4b95b.netlify.app)
+👉 [View Website](https://github.com/AhmedAbdelhamid-codes/Bondi-responsive-website.git)
 
 ## 🔗 Links
 - GitHub: [Ahmed Abdelhamid](https://github.com/AhmedAbdelhamid-codes)
