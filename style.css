@@ -453,27 +453,8 @@ header{
 
 .container_Portfolio .card{
   padding: 10px 15px;
+  flex: 1 1 300px;
 }
-
-/* ==== start responsef cards==== */
-@media (min-width: 575px) { 
-  .container_Portfolio .card{
-   width: 50%;
-  }
-}
-
-@media (min-width: 768px) { 
-  .container_Portfolio .card{
-   width: 33.33%;
-  } 
-}
-
-@media (min-width: 992px) { 
-  .container_Portfolio .card{
-   width: 25%;
-  }
-}
-/* ==== end responsef cards==== */
 
 .container_Portfolio .card .imge{
   max-width: 100%;
@@ -699,27 +680,8 @@ header{
 
 .container_team .cards .card{
   padding: 10px 15px;
+  flex: 1 1 300px;
 }
-
-/* ====start responive for phones & tablets===== */
-@media (min-width: 575px) { 
-  .container_team .cards .card{
-   width: 50%;
-  }
-}
-
-@media (min-width: 768px) { 
-  .container_team .cards .card{
-   width: 33.33%;
-  } 
-}
-
-@media (min-width: 992px) { 
-  .container_team .cards .card{
-   width: 25%;
-  }
-}
-/* ====end responive for phones & tablets===== */
 
 .container_team .cards .imge{
   display: flex;
@@ -890,27 +852,8 @@ header{
 
 .container_blog .cards .card{
   padding:15px;
+  flex: 1 1 300px;
 }
-
-/* ====start responive for phones & tablets===== */
-@media (min-width: 575px) { 
-  .container_blog .cards .card{
-   width: 100%;
-  }
-}
-
-@media (min-width: 768px) { 
-  .container_blog .cards .card{
-    width: 50%;
-  } 
-}
-
-@media (min-width: 992px){ 
-  .container_blog .cards .card{
-   width: 33.33%;
-  }
-}
-/* ====end responive for phones & tablets===== */
 
 .container_blog .cards .card .imge{
   width: 100%;
