@@ -1114,6 +1114,7 @@ footer{
 
 .container_footer .colection a:hover{
  color: var(--btn-hover);
+ transform: translateX(-3px);
 }
 
 .container_footer .colection .card:not(4){
@@ -1336,5 +1337,5 @@ footer{
 .youtube{ background-color: #FF0000;}
 
 .container_footer .colection .Contact-Us .icons .icon:hover{
-  transform: scale(1.1);
+  transform: translateX(-3px);
 }
